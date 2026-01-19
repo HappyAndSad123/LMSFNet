@@ -42,7 +42,6 @@ python Train.py --train_root YOUR_TRAININGSETPATH  --val_root  YOUR_VALIDATIONSE
 
 ## 5. Results download
 
-The prediction results of our SDRNet are stored on [BaiDu Drive](通过网盘分享的文件：Pretrained Models.zip
-链接: https://pan.baidu.com/s/14hYByGQJJDz0897-ZmMDfA?pwd=3uvy 提取码: 3uvy) please check.
+The prediction results of our SDRNet are stored on [BaiDu Drive]() please check.
 
 ## 6.Citation
